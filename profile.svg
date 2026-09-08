@@ -1,11 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 760" role="img" aria-labelledby="title desc">
-<title id="title">Ravi Rajendran — IT &amp; Data Analytics Professional</title>
-<desc id="desc">Professional profile photograph of Ravi Rajendran.</desc>
-<defs>
-  <clipPath id="frame"><rect width="640" height="760" rx="44"/></clipPath>
-  <linearGradient id="overlay" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#061a33" stop-opacity=".02"/><stop offset="1" stop-color="#061a33" stop-opacity=".18"/></linearGradient>
-</defs>
-<rect width="640" height="760" rx="44" fill="#061a33"/>
-<image href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUjghHS0pL..." width="640" height="760" preserveAspectRatio="xMidYMid slice" clip-path="url(#frame)"/>
-<rect width="640" height="760" rx="44" fill="url(#overlay)" clip-path="url(#frame)"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 760" role="img" aria-labelledby="title desc"><title id="title">Ravi Rajendran — IT &amp; Data Analytics Professional</title><desc id="desc">Professional profile photograph of Ravi Rajendran.</desc><defs><clipPath id="frame"><rect width="640" height="760" rx="44"/></clipPath><linearGradient id="overlay" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#061a33" stop-opacity=".02"/><stop offset="1" stop-color="#061a33" stop-opacity=".18"/></linearGradient></defs><rect width="640" height="760" rx="44" fill="#061a33"/><image href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUjghHS0pK..." width="640" height="760" preserveAspectRatio="xMidYMid slice" clip-path="url(#frame)"/><rect width="640" height="760" rx="44" fill="url(#overlay)" clip-path="url(#frame)"/></svg>
