@@ -6,6 +6,6 @@
   <linearGradient id="overlay" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#061a33" stop-opacity=".02"/><stop offset="1" stop-color="#061a33" stop-opacity=".18"/></linearGradient>
 </defs>
 <rect width="640" height="760" rx="44" fill="#061a33"/>
-<image href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUjghHS0pO..." width="640" height="760" preserveAspectRatio="xMidYMid slice" clip-path="url(#frame)"/>
+<image href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUjghHS0pL..." width="640" height="760" preserveAspectRatio="xMidYMid slice" clip-path="url(#frame)"/>
 <rect width="640" height="760" rx="44" fill="url(#overlay)" clip-path="url(#frame)"/>
 </svg>
