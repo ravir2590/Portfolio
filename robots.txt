@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ravir2590.github.io/Portfolio/sitemap.xml
